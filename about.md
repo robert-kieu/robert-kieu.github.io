@@ -9,6 +9,8 @@ Xin chào, Mình là Lê Văn Đông. Đến từ Thành phố Hồ Chí Minh. M
 
 Mình sinh hoạt chủ yếu ở vn-z.vn và Messenger. Facebook mình ít sử dụng lắm, chủ yếu cập nhật tin tức thôi. Mà Messenger mình sẽ không trả lời người lạ. Nếu muốn liên lạc với mình có thể liên lạc ở Telegram.
 
-Github: https://github.com/itlvd
-Telegram: https://t.me/itlvd
-Forum: https://vn-z.vn
+[Github](https://github.com/itlvd)
+
+[Telegram](https://t.me/itlvd)
+
+[Forum](https://vn-z.vn)
