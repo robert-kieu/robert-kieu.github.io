@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      VNKOWTOX Windows Office Key Manager
-date:       2014-06-10 12:31:19
-summary:    
+date:       2021-01-13 12:31:19
+summary:    VNKOWTOX là phần mềm quản lý Key Windows và Office offline. Phần mềm này mình đã ấp ủ rất lâu từ hồi mình được các bác ở box Hệ Điều Hành giúp đỡ hơn một năm trước.
 categories: projects
 ---
 
