@@ -8,7 +8,7 @@ url:         "http://levandong.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
- - contact.html
+ - project.md
  - stories.md
 
 # Google services
