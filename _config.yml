@@ -1,5 +1,5 @@
 # Site settings
-title:       LVD
+title:       Lê Văn Đông
 email:       contact@levandong.com
 author:      Lê Văn Đông
 description: "Developer with love <3."
@@ -15,7 +15,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: G-GQZDMWM06E
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -27,7 +27,7 @@ show_post_footers:    false
 show_social_icons:    true
 ajaxify_contact_form: false
 enable_mathjax: true
-extended_fonts: false
+extended_fonts: true
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
 post_preview_image: false
@@ -66,7 +66,7 @@ telegram_username: itlvd
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: true
+show_sharing_icons: false
 # Change to 'true' to enable individual icons
 share_facebook: true
 share_twitter: false
