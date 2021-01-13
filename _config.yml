@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       LVD
+email:       contact@levandong.com
+author:      Lê Văn Đông
+description: "Developer with love <3."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://levandong.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -25,7 +25,7 @@ show_related_posts:   false
 show_post_footers:    false
 show_social_icons:    false
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
@@ -47,7 +47,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: itlvd
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -57,17 +57,17 @@ steam_nickname:
 google_plus_id:
 linkedin_username:
 angellist_username:
-medium_id:
+medium_id: itlvd
 bitcoin_url:
 paypal_url:
 flattr_button:
-telegram_username:
+telegram_username: itlvd
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
+share_facebook: true
 share_twitter: false
 share_googleplus: false
 share_linkedin: false
