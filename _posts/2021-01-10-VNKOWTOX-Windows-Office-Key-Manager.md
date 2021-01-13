@@ -16,7 +16,7 @@ VNKOWTOX có những đặc điểm:
 + Dễ dùng. Mình đã cố gắng hạn chế việc gõ tay.
 + Nhẹ nhàng. Chưa tới 500kb.
 + Có đầy đủ các tính năng cơ bản như: thêm, sửa, xoá.
-+ Có hightlight các màu theo chữ: <span class="green"> online </span>, <span class="dark yellow"> get web </span>, **by phone**, <span class="red">die</span>, etc ( màu trắng ).
++ Có hightlight các màu theo chữ: <span class="green"> online </span>, <span class="yellow"> get web </span>, <span class="blue">by phone</span>, <span class="red">die</span>, etc ( màu trắng ).
 + Thêm key nhanh.
 
 Một số tính năng sẽ có trong thời gian tới:
