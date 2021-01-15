@@ -1,10 +1,10 @@
 # Site settings
-title:       Lê Văn Đông
-email:       contact@levandong.com
-author:      Lê Văn Đông
+title:       Robert-Kiều
+email:       haidang11021980@gmail.com
+author:      Robert-Kiều
 description: "Developer with love <3."
 baseurl:     ""
-url:         "http://levandong.com"
+url:         "https://robertkieu.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -15,7 +15,7 @@ header_pages:
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics: G-GQZDMWM06E
+google_analytics: 
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -48,8 +48,8 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username: itlvd
-reddit_username:
+github_username: robert-kieu
+reddit_username: Robert_Kieu
 bitbucket_username:
 stackoverflow_id:
 twitter_username:
@@ -58,11 +58,11 @@ steam_nickname:
 google_plus_id:
 linkedin_username:
 angellist_username:
-medium_id: itlvd
+medium_id:
 bitcoin_url:
 paypal_url:
 flattr_button:
-telegram_username: itlvd
+telegram_username:
 vk_id:
 
 # Post sharing icons
